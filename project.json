@@ -43,7 +43,24 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5ba53fee-d7c5-4e3d-910e-1cdb5fe0dac5",
+        "dataVariationFilePath": ".variations\\RpaProcessTesting_Concatenator.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "RpaProcessTesting\\Utils\\TestCase_Concatenator.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c4c59d1b-dbe9-430d-b624-dc14f4f7a1f2",
+        "dataVariationFilePath": ".variations\\RpaProcessTesting_Concatenator.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "RpaProcessTesting\\Utils\\TestCase_ConcatenatorThrowing.xaml"
+      }
+    ],
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
